@@ -1,0 +1,11 @@
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\bin\Debug\Intro-lab-videojuegos.exe.config
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\bin\Debug\Intro-lab-videojuegos.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\bin\Debug\Intro-lab-videojuegos.pdb
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro-lab-videojuegos.csproj.AssemblyReference.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro-lab-videojuegos.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro_lab_videojuegos.Form1.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro_lab_videojuegos.Properties.Resources.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro-lab-videojuegos.csproj.GenerateResource.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro-lab-videojuegos.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro-lab-videojuegos.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Entregables\Entregable 1\Intro-lab-videojuegos\Intro-lab-videojuegos\obj\Debug\Intro-lab-videojuegos.pdb
