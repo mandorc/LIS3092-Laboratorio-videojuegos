@@ -86,10 +86,12 @@ namespace lab_parallax
                 player.Image = Resource1.Mhold_1_;
             }
         }
-
+        
         private void PARALLAX_Paint(object sender, PaintEventArgs e)
         {
             g = e.Graphics;
+
+            g.DrawImage(layer1, 0, 0, layer1.Width, this.Height - 50);
 
             g.DrawImage(layer1, l1_x1, 0, layer1.Width, this.Height - 50);
             g.DrawImage(layer1, l1_x2, 0, layer1.Width, this.Height - 50);
