@@ -1,0 +1,12 @@
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\bin\Debug\lab-parallax.exe.config
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\bin\Debug\lab-parallax.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\bin\Debug\lab-parallax.pdb
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab-parallax.csproj.AssemblyReference.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab-parallax.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab_parallax.PARALLAX.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab_parallax.Properties.Resources.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab_parallax.Resource1.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab-parallax.csproj.GenerateResource.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab-parallax.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab-parallax.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 1\lab-parallax\lab-parallax\obj\Debug\lab-parallax.pdb
