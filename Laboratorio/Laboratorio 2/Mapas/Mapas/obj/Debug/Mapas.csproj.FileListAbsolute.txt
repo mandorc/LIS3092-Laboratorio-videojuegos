@@ -1,0 +1,11 @@
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.csproj.AssemblyReference.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.Form1.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.Properties.Resources.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.csproj.GenerateResource.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\bin\Debug\Mapas.exe.config
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\bin\Debug\Mapas.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\bin\Debug\Mapas.pdb
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Mapas\Mapas\obj\Debug\Mapas.pdb
