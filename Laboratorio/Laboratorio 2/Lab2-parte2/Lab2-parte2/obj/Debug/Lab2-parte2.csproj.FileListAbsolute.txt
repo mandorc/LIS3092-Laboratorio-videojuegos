@@ -1,0 +1,6 @@
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Lab2-parte2\Lab2-parte2\obj\Debug\Lab2-parte2.csproj.AssemblyReference.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Lab2-parte2\Lab2-parte2\obj\Debug\Lab2-parte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Lab2-parte2\Lab2-parte2\obj\Debug\Lab2_parte2.Form1.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Lab2-parte2\Lab2-parte2\obj\Debug\Lab2_parte2.Properties.Resources.resources
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Lab2-parte2\Lab2-parte2\obj\Debug\Lab2-parte2.csproj.GenerateResource.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Laboratorio\Laboratorio 2\Lab2-parte2\Lab2-parte2\obj\Debug\Lab2-parte2.csproj.CoreCompileInputs.cache
