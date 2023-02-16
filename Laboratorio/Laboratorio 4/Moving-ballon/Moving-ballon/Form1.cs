@@ -56,5 +56,22 @@ namespace Moving_ballon
 
             pictureBox1.Invalidate();
         }
+
+        private void generateTimer_Tick(object sender, EventArgs e)
+        {
+            Random rnd = new Random();
+
+            int x = rnd.Next(0, pictureBox1.Width);
+            int y = rnd.Next(0, pictureBox1.Height);
+            int r = rnd.Next(10, 50);
+            int vx = rnd.Next(-10, 10);
+            int vy = rnd.Next(-10, 10);
+
+            Color color = Color.FromArgb(rnd.Next(256), rnd.Next(256), rnd.Next(256));
+            Brush brush = new SolidBrush(color);
+
+            Pelota pelota = new Pelota(x, y, r, vx, vy, brush);
+            pelotas.Add(pelota);
+        }
     }
 }
