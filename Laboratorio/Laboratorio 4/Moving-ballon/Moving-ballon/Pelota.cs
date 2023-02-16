@@ -31,7 +31,7 @@ namespace Moving_ballon
             g.FillEllipse(color, posX - radio, posY - radio, radio * 2, radio * 2);
         }
 
-        public void Mover1(int ancho, int alto)
+        public void Mover(int ancho, int alto)
         {
             posX += velocidadX;
             posY += velocidadY;
@@ -47,32 +47,6 @@ namespace Moving_ballon
             }
         }
 
-        public void Mover(Rectangle limites)
-        {
-            x += vx;
-            y += vy;
-
-            if (x - r < limites.Left)
-            {
-                x = limites.Left + r;
-                vx = Math.Abs(vx);
-            }
-            if (x + r > limites.Right)
-            {
-                x = limites.Right - r;
-                vx = -Math.Abs(vx);
-            }
-            if (y - r < limites.Top)
-            {
-                y = limites.Top + r;
-                vy = Math.Abs(vy);
-            }
-            if (y + r > limites.Bottom)
-            {
-                y = limites.Bottom - r;
-                vy = -Math.Abs(vy);
-            }
-        }
 
     }
 }
