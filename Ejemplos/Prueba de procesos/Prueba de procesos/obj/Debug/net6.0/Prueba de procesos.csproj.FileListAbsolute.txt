@@ -1,0 +1,15 @@
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\bin\Debug\net6.0\Prueba de procesos.exe
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\bin\Debug\net6.0\Prueba de procesos.deps.json
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\bin\Debug\net6.0\Prueba de procesos.runtimeconfig.json
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\bin\Debug\net6.0\Prueba de procesos.dll
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\bin\Debug\net6.0\Prueba de procesos.pdb
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.csproj.AssemblyReference.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.AssemblyInfoInputs.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.AssemblyInfo.cs
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.csproj.CoreCompileInputs.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.dll
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\refint\Prueba de procesos.dll
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.pdb
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\Prueba de procesos.genruntimeconfig.cache
+C:\Users\arman\Documents\GitHub\UDLAP\LIS3092-Laboratorio-videojuegos\Ejemplos\Prueba de procesos\Prueba de procesos\obj\Debug\net6.0\ref\Prueba de procesos.dll

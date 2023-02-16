@@ -71,6 +71,7 @@ namespace lab_parallax
         {
             if(e.KeyData == Keys.Right & hold)
             {
+                Console.WriteLine("presionado");
                 right = true;
                 hold = false;
                 player.Image = Resource1.running_1_;
